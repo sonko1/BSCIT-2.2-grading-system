@@ -1,4 +1,3 @@
-#
 sub1=int(input("Enter marks of data communication: "))
 sub2=int(input("Enter marks of computer system project: "))
 sub3=int(input("Enter marks of multimedia: "))
